@@ -1,5 +1,5 @@
 KALENDARYO TREND - VS CODE
-
+( di na need idownload yung README.txt pero ikaw kung idodownload mopo )
 1. Open this folder in VS Code.
 2. Keep index.html and sound.mp3 in the same folder.
 3. Install the VS Code extension "Live Server" if you don't have it.
